@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sagnik_26" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik_26?logo=twitter&style=for-the-badge" alt="sagnik_26" /></a> </p>
 
-- 🔭 I’m currently working on [An E-commerce store using NEXTJS](https://github.com/sagnik26/E-Commerce-store-using-NextJS.git)
-
 - 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **sagnikg26@gmail.com**
