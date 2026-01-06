@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagnik_26" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik_26?logo=twitter&style=for-the-badge" alt="sagnik_26" /></a> </p>
 
-- 🔭 I’m currently working on [ArchFlow](https://github.com/sagnik26/ArchFlow, https://github.com/sagnik26/arch-flow)
+- 🔭 I’m currently working on **ArchFlow** [FE -> https://github.com/sagnik26/ArchFlow] [BE: https://github.com/sagnik26/arch-flow]
 
 - 🌱 I’m currently learning **Python, FastAPI**
 
