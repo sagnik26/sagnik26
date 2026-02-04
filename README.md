@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ArchFlow** [FE -> https://github.com/sagnik26/ArchFlow] [BE: https://github.com/sagnik26/arch-flow]
 
-- 🌱 I’m currently learning **Python, FastAPI**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
 - 💬 Ask me about **JavaScript, Java, React, Spring Boot, TypeScript, NodeJS**
 
