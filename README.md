@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sagnik_26" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik_26?logo=twitter&style=for-the-badge" alt="sagnik_26" /></a> </p>
 
-- 🔭 I’m currently working on **ArchFlow** [FE -> https://github.com/sagnik26/ArchFlow] [BE: https://github.com/sagnik26/arch-flow]
+- 🔭 I’m currently working on **MarketLens - Competitor Intelligence Platform**
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Python, GenAI, RAG, LLM**
 
-- 💬 Ask me about **JavaScript, Java, React, Spring Boot, TypeScript, NodeJS**
+- 💬 Ask me about **JavaScript, React, Python, FastAPI, TypeScript, NodeJS**
 
 - 📫 How to reach me **sagnikg26@gmail.com**
 
