@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sagnik Ghosh</h1>
-<h3 align="center">Software Engineer · Full Stack & Mobile · Sony India</h3>
+<h3 align="center">Full Stack Software Engineer · Sony India Software Centre</h3>
 <h3 align="center"><a href="https://sagnikghosh.in">🌐 sagnikghosh.in</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik26&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik26" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sagnik_26" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik_26?logo=twitter&style=for-the-badge" alt="sagnik_26" /></a> </p>
 
-- 🔭 Currently building **ContentOS** — a self-improving system that adapts to your writing style over time and removes AI slop
-- 🚀 Previously built **MarketLens** (Tinyfish Accelerator) — an AI-powered competitor intelligence platform for B2B SaaS · didn't make it, but shipped it 💀
-- 💼 Software Engineer at **Sony India** — working on the PlayStation App & ecosystem (React Native, FastAPI, Azure)
-- 🌱 Exploring **GenAI, RAG pipelines, and LLM observability**
-- 💬 Ask me about **React, Next.js, React Native, Node.js, FastAPI, TypeScript, PostgreSQL**
-- 📫 Reach me at **sagnikg26@gmail.com**
+- 🍳 Currently building **Kitchen Sense** — an Instamart agent that learns your household's consumption patterns and reorders before you run out
+
+- 🚀 Also building **Craftly** — a TypeScript coding agent harness on the Vercel AI SDK's ToolLoopAgent, with subagents, approval gating, and a streaming web UI
+
+- 🧠 Reimplemented Mem0's memory architecture from scratch (Python, DSPy, Qdrant)
+
+- 🌱 Exploring GenAI, agentic RAG pipelines, and LLM observability
+
+- 💬 Ask me about React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Python, FastAPI, PostgreSQL
+
+- 📫 Reach me at sagnikg26@gmail.com
 
 ---
 
@@ -119,5 +124,3 @@ releases
 </p>
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik26&show_icons=true&locale=en&layout=compact" alt="sagnik26" /></p>
