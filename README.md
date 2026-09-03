@@ -12,7 +12,7 @@
 
 - 🧠 Reimplemented Mem0's memory architecture from scratch (Python, DSPy, Qdrant)
 
-- 🌱 Exploring GenAI, agentic RAG pipelines, and LLM observability
+- 🌱 Building and exploring various Agentic AI workflows
 
 - 💬 Ask me about React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Python, FastAPI, PostgreSQL
 
