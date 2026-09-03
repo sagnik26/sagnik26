@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagnik_26" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik_26?logo=twitter&style=for-the-badge" alt="sagnik_26" /></a> </p>
 
-- 🍳 Currently building **Kitchen Sense** — an Instamart agent that learns your household's consumption patterns and reorders before you run out
+- 🍳 Currently building **Kitchen Sense** — an Instamart agent that learns your household's consumption patterns and reorders before you run out (As a part of Swiggy Builders Club, Soon to be launched)
 
 - 🚀 Also building **Craftly** — a TypeScript coding agent harness on the Vercel AI SDK's ToolLoopAgent, with subagents, approval gating, and a streaming web UI
 
@@ -40,46 +40,42 @@
 
 **Software Engineer — Sony India Software Centre** *(Aug 2025 – Present)*
 
-- Designed and built a full stack internal tool (React, FastAPI, AWS Lambda, AWS IAM, EKS, SNS) to automate creation and
-management of PlayStation QA test accounts, eliminating manual provisioning steps and reducing account setup support tickets by 25%
+- Designed and built a full stack internal tool **(React, Nodejs, TypeScript, AWS Lambda, AWS IAM, EKS, SNS)** to automate creation and
+management of PlayStation QA test accounts, eliminating manual provisioning steps and reducing account setup support tickets by **25%**
 
-- Resolved a scalability bottleneck in a shared GraphQL federation schema by architecting an independent supergraph for the high
-traffic PlayStation Rewards service, isolating it from common-schema contention and improving performance by ~50% while
+- Resolved a scalability bottleneck in a shared **GraphQL federation** schema by architecting an independent supergraph for the high
+traffic PlayStation Rewards service, isolating it from common-schema contention and improving performance by **~50%** while
 preventing cross service impact
 
-- Engineered an internal event driven architecture platform for LLM observability, built with Next.js, Python, Django, PostgreSQL,
-Celery, RabbitMQ, and serverless AWS (Lambda, EKS, SQS, SNS), capturing model, provider, latency, and request status through an
+- Engineered an internal **event driven architecture platform for LLM observability**, built with **Next.js, Nodejs, Zustand, Tailwind, PostgreSQL, RabbitMQ, and serverless AWS (Lambda, EKS, SQS, SNS)**, capturing model, provider, latency, and request status through an
 idempotent, concurrency safe distributed ingestion pipeline
 
-- Built a custom native C++ audio processing module (bridged via React Native's native bridge) for real time microphone/controller
+- Built a custom **native C++ audio processing module (bridged via React Native's native bridge)** for real time microphone/controller
 voice input on the PlayStation Mobile App, optimized for tight mobile CPU/memory budgets
 
-- Shipped React Native features across the PlayStation Mobile App and console while tracking TTFP, TTS, TTI, and FPS to maintain
+- Shipped React Native features across the PlayStation Mobile App and console while tracking **TTFP, TTS, TTI, and FPS** to maintain
 smooth, responsive performance
 
-- Drove PlayStation App accessibility work, implementing WCAG compliant features to ensure compliance with the EU Accessibility
+- Drove PlayStation App accessibility work, implementing **WCAG compliant features** to ensure compliance with the EU Accessibility
 Act (EAA), impacting millions of users across the PlayStation ecosystem
 
-- Shipped an AI coding agent harness (Claude Code) adopted across Sony engineering teams by integrating a proprietary knowledge base
+- Shipped an **AI coding agent harness (Claude Code)** adopted across Sony engineering teams by integrating a proprietary knowledge base
 of internal APIs, codebase conventions, and PlayStation compliance guardrails, while scoping tool level permissions to meet security
 and governance requirements
 
 
 **Software Engineer — P360** *(Feb 2023 – Jul 2025)*
 
-- Designed a config-driven multi-tenant data onboarding and ETL/migration system (Node.js, TypeScript, Python, Terraform)
+- Designed a **config-driven multi-tenant data onboarding and ETL/migration system (Node.js, TypeScript, Python, Terraform)**
 that cut tenant onboarding from a full day to under 5 minutes, orchestrating cloud provisioning and PostgreSQL data migrations
 with Redis-cached tenant configs and secrets
 
-- Built and scaled RESTful APIs and GraphQL services across multi-tenant environments serving 20k+ users in 45+ countries,
+- Built and scaled RESTful APIs and GraphQL services across multi-tenant environments serving **20k+ users in 45+ countries**,
 treating APIs as products with OAuth 2.0, RBAC, and rate limiting to ensure security and operational observability at scale
 
-- Migrated real-time messaging to an event-driven WebSocket architecture, cutting latency 10% for 20k+ concurrent users
+- Migrated real-time messaging to an **event-driven WebSocket** architecture, cutting latency 10% for 20k+ concurrent users
 
-- Implemented field-level encryption and RBAC least-privilege access with detailed audit logging, supporting successful third-party
-compliance audits
-
-- Maintained 85%+ test coverage (Jest, React Testing Library, Playwright) in GitHub Actions CI/CD pipelines for zero-downtime
+- Maintained 85%+ test coverage **(Jest, React Testing Library, Playwright)** in GitHub Actions CI/CD pipelines for zero-downtime
 releases
 
 - Led React Native mobile development end-to-end on Connect
