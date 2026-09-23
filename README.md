@@ -32,31 +32,16 @@
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933)
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
 ![Redux](https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&color=764ABC)
-![Zustand](https://img.shields.io/badge/State-Zustand-informational?style=flat&color=443E38)
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&color=E10098)
-![Apollo](https://img.shields.io/badge/API-Apollo-informational?style=flat&logo=apollographql&color=311C87)
 ![WebSocket](https://img.shields.io/badge/Protocol-WebSocket-informational?style=flat&color=010101)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
-![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&color=DC382D)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![Vercel AI SDK](https://img.shields.io/badge/AI-Vercel_AI_SDK-informational?style=flat&logo=vercel&color=000000)
-![DSPy](https://img.shields.io/badge/AI-DSPy-informational?style=flat&color=1E3A8A)
-![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&color=7B42BC)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 
 </div>
 
-- 🍳 Currently building **Kitchen Sense** — an Instamart agent that learns your household's consumption patterns and reorders before you run out (As a part of Swiggy Builders Club, Soon to be launched)
+- 🎮 Full-stack engineer building on the PlayStation platform at Sony — building on event-driven systems, websockets at scale, GraphQL Federation architecture,  and features that ship to millions
 
-- 🚀 Also building **Craftly** — a TypeScript coding agent harness on the Vercel AI SDK's ToolLoopAgent, with subagents, approval gating, and a streaming web UI
-
-- 🧠 Reimplemented Mem0's memory architecture from scratch (Python, DSPy, Qdrant)
-
-- 🌱 Building and exploring various Agentic AI workflows
-
-- 💬 Ask me about React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Python, FastAPI, PostgreSQL
+- 💬 Ask me about React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Websockets, Python, FastAPI, PostgreSQL
 
 - 📫 Reach me at sagnikg26@gmail.com
 
