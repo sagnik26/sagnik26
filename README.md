@@ -1,10 +1,31 @@
 <h1 align="center">Hi 👋, I'm Sagnik Ghosh</h1>
-<h3 align="center">Full Stack Software Engineer · Sony India Software Centre</h3>
-<h3 align="center"><a href="https://sagnikghosh.in">🌐 sagnikghosh.in</a></h3>
+<h3 align="center">Software Engineer @ Sony PlayStation  🎮</h3>
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik26&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik26" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sagnik_26" target="blank"><img src="https://img.shields.io/twitter/follow/sagnik_26?logo=twitter&style=for-the-badge" alt="sagnik_26" /></a> </p>
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&color=00599C)
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&color=4FC08D)
+![React Native](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&color=61DAFB)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
+![Redux](https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&color=764ABC)
+![Zustand](https://img.shields.io/badge/State-Zustand-informational?style=flat&color=443E38)
+![GraphQL](https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&color=E10098)
+![Apollo](https://img.shields.io/badge/API-Apollo-informational?style=flat&logo=apollographql&color=311C87)
+![WebSocket](https://img.shields.io/badge/Protocol-WebSocket-informational?style=flat&color=010101)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&color=DC382D)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![Vercel AI SDK](https://img.shields.io/badge/AI-Vercel_AI_SDK-informational?style=flat&logo=vercel&color=000000)
+![DSPy](https://img.shields.io/badge/AI-DSPy-informational?style=flat&color=1E3A8A)
+![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&color=7B42BC)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 
 - 🍳 Currently building **Kitchen Sense** — an Instamart agent that learns your household's consumption patterns and reorders before you run out (As a part of Swiggy Builders Club, Soon to be launched)
 
