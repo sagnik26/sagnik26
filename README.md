@@ -1,6 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sagnik Ghosh</h1>
-<h3 align="center">Software Engineer @ Sony PlayStation  🎮</h3>
+<div align="center">
+  <h1>Hi there, I'm Sagnik Ghosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h3> Software Engineer @ Sony PlayStation 🎮 </h3>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sagnik-ghosh26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://x.com/Sagnik_26"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/sagnik26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
+  <a href="https://dev.to/nik26_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>&nbsp;
+  <a href="mailto:sagnikg26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagnik26&style=for-the-badge&color=09f&labelColor=black&label=Profile+Views">
+</p>
+
 <br />
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
@@ -26,6 +43,8 @@
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&color=7B42BC)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+
+</div>
 
 - 🍳 Currently building **Kitchen Sense** — an Instamart agent that learns your household's consumption patterns and reorders before you run out (As a part of Swiggy Builders Club, Soon to be launched)
 
