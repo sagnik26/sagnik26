@@ -62,9 +62,9 @@
 
 ---
 
-### 💼 Experience
+# 💼 Experience
 
-**Software Engineer — Sony India Software Centre** *(Aug 2025 – Present)*
+## **Software Engineer — Sony India Software Centre** *(Aug 2025 – Present)*
 
 • Worked end to end on rebuilding the Rewards and Collectibles feature for the playstation app in React Native. Worked on building the backend API service in Node.js and configured the graphql federation layer by connecting the microservice and creating separate rewards subgraph isolating from shared core subgraph forn scalability which improved performance by ~50% while preventing cross service impact
 
@@ -84,8 +84,9 @@ Act (EAA), impacting millions of users across the PlayStation ecosystem
 • Built a custom native C++ audio processing module (bridged via React Native's native bridge) for real time microphone/controller
 voice input on the PlayStation Mobile App, optimized for tight mobile CPU/memory budgets
 
+<br />
 
-**Software Engineer — P360** *(Feb 2023 – Jul 2025)*
+## **Software Engineer — P360** *(Feb 2023 – Jul 2025)*
 
 • Owned features end-to-end on Connect, a healthcare SaaS used by 20k+ doctors across 45+ countries, building RESTful APIs in
 Node.js and PostgreSQL, consumed by a React and TypeScript frontend, and led React Native mobile development end-to-end
@@ -105,7 +106,7 @@ onboarding from a full day to under 5 minutes by automating cloud provisioning a
 
 ---
 
-### 🛠 Languages & Tools
+# 🛠 Languages & Tools
 
 <p align="left">
   <!-- Languages -->
