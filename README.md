@@ -39,13 +39,13 @@
 
 </div>
 
-- 🎮 Full-stack engineer building on the PlayStation platform at Sony — Building event-driven systems, Websockets at scale, GraphQL Federation architecture, High-performance UIs for both web & apps and features that ship to millions
+- 🎮 Full-stack engineer building on the PlayStation platform at **Sony** — _**Building event-driven systems, Websockets at scale, GraphQL Federation architecture, High-performance UIs for both web & apps and features that ship to millions**_
 
 - 🌱 Contributing to open source as much as I can
 
-- 💬 Ask me about React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Websockets, Python, FastAPI, PostgreSQL
+- 💬 Ask me about _**React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Websockets, Python, FastAPI, PostgreSQL**_
 
-- 📫 Reach me at sagnikg26@gmail.com
+- 📫 Reach me at _**sagnikg26@gmail.com**_
 
 ---
 
@@ -53,43 +53,43 @@
 
 ## **Software Engineer — Sony India Software Centre** *(Aug 2025 – Present)*
 
-• Worked end to end on rebuilding the Rewards and Collectibles feature for the playstation app in React Native. Worked on building the backend API service in Node.js and configured the graphql federation layer by connecting the microservice and creating separate rewards subgraph isolating from shared core subgraph forn scalability which improved performance by ~50% while preventing cross service impact
+• Worked end to end on rebuilding the Rewards and Collectibles feature for the **Playstation** app in **React Native**. Worked on building the backend API service in **Node.js** and configured the **graphql** federation layer by connecting the microservice and creating separate rewards subgraph isolating from shared core subgraph for scalability which improved performance by **~50%** while preventing cross service impact
 
-• Worked on Playstation account management internal tool using Next.js (SSR), Redux, TypeScript, and Node.js deployed on AWS EKS and Lambda, optimized page load times by leveraging Server Components to handle heavy AWS resource orchestration and data-
-fetching, cutting account setup support tickets by 25%
+• Worked on Playstation account management internal tool using **Next.js (SSR), Redux, TypeScript, and Node.js** deployed on **AWS EKS** and **Lambda**, optimized page load times by leveraging Server Components to handle heavy **AWS** resource orchestration and data-
+fetching, cutting account setup support tickets by **25%**
 
-• Optimized real-time streaming data within the PlayStation console UI by engineering a TypeScript message-batching queue and
-custom React throttling hook, stabilized frame rates at 60 FPS and reduced component re-renders during high-frequency WebSocket
+• Optimized **real-time streaming** data within the PlayStation console UI by engineering a **TypeScript message-batching queue** and
+custom **React throttling hook**, stabilized frame rates at **60 FPS** and reduced component re-renders during high-frequency WebSocket
 event traffic bursts
 
-• Shipped React Native features across the PlayStation Mobile App and console while tracking TTFP, TTS, TTI, and FPS to maintain
+• Shipped **React Native** features across the PlayStation Mobile App and console while tracking **TTFP, TTS, TTI, and FPS** to maintain
 smooth, responsive performance
 
-• Drove PlayStation App accessibility work, implementing WCAG compliant features to ensure compliance with the EU Accessibility
-Act (EAA), impacting millions of users across the PlayStation ecosystem
+• Drove PlayStation App **accessibility** work, implementing **WCAG** compliant features to ensure compliance with the **EU Accessibility
+Act (EAA)**, impacting millions of users across the PlayStation ecosystem
 
-• Built a custom native C++ audio processing module (bridged via React Native's native bridge) for real time microphone/controller
+• Built a custom native **C++** audio processing module (bridged via React Native's native bridge) for real time microphone/controller
 voice input on the PlayStation Mobile App, optimized for tight mobile CPU/memory budgets
 
 <br />
 
 ## **Software Engineer — P360** *(Feb 2023 – Jul 2025)*
 
-• Owned features end-to-end on Connect, a healthcare SaaS used by 20k+ doctors across 45+ countries, building RESTful APIs in
+• Owned features end-to-end on **Connect**, a healthcare SaaS used by **20k+** doctors across **45+** countries, building RESTful APIs in
 Node.js and PostgreSQL, consumed by a React and TypeScript frontend, and led React Native mobile development end-to-end
 
 • Improved React frontend performance on Connect using list virtualization, cursor based pagination, component memoization, and
-lazy loading of modules for improving TTFP (time to first paint)
+lazy loading of modules for improving **TTFP (time to first paint)**
 
-• Migrated real-time messaging to an event-driven WebSocket architecture, cutting latency 10% for 20k+ concurrent users
+• Migrated real-time messaging to an event-driven WebSocket architecture, cutting latency **10%** for **20k+** concurrent users
 
-• Implemented field-level encryption and RBAC least-privilege access with audit logging, supporting third-party compliance audits
+• Implemented field-level encryption and **RBAC** least-privilege access with audit logging, supporting third-party compliance audits
 
-• Maintained 85%+ test coverage (Jest, React Testing Library, Playwright) in GitHub Actions CI/CD pipelines for zero-downtime
+• Maintained **85%+** test coverage **(Jest, React Testing Library, Playwright)** in **GitHub Actions CI/CD** pipelines for zero-downtime
 releases
 
-• Designed a config-driven multi-tenant onboarding and ETL/migration system (Node.js, TypeScript, Terraform) that cut tenant
-onboarding from a full day to under 5 minutes by automating cloud provisioning and PostgreSQL data migrations
+• Designed a config-driven **multi-tenant onboarding** and ETL/migration system **(Node.js, TypeScript, Terraform)** that cut tenant
+onboarding from a full day to under **5 minutes** by automating cloud provisioning and PostgreSQL data migrations
 
 ---
 
