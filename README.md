@@ -39,7 +39,9 @@
 
 </div>
 
-- 🎮 Full-stack engineer building on the PlayStation platform at Sony — building on event-driven systems, websockets at scale, GraphQL Federation architecture,  and features that ship to millions
+- 🎮 Full-stack engineer building on the PlayStation platform at Sony — Building event-driven systems, Websockets at scale, GraphQL Federation architecture, High-performance UIs for both web & apps and features that ship to millions
+
+- 🌱 Contributing to open source as much as I can
 
 - 💬 Ask me about React, Next.js, JavaScript, TypeScript, React Native, Node.js, GraphQL, Websockets, Python, FastAPI, PostgreSQL
 
