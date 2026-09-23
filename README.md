@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Sagnik Ghosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <h3><em> Software Engineer @ Sony PlayStation 🎮 </em></h3>
+  <h3>Software Engineer @ Sony 🎮 </h3>
 </div>
 
 <br />
