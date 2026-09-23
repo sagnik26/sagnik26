@@ -39,7 +39,7 @@
 
 </div>
 
-- 🎮 Full-stack engineer building on the PlayStation platform at **Sony** — _**Building event-driven systems, Websockets at scale, GraphQL Federation architecture, High-performance UIs for both web & apps and features that ship to millions**_
+- 🎮 Full-stack engineer building on the PlayStation platform at **Sony** — _**event-driven systems, Websockets at scale, GraphQL Federation architecture, High-performance UIs for both web & apps and features that ship to millions**_
 
 - 🌱 Contributing to open source as much as I can
 
