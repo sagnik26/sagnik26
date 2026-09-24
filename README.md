@@ -131,3 +131,62 @@ onboarding from a full day to under **5 minutes** by automating cloud provisioni
 </p>
 
 ---
+
+# 🌍 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-2-8957e5?style=flat-square&labelColor=000000&logo=github" />
+  <img src="https://img.shields.io/badge/Organizations-2-0099ff?style=flat-square&labelColor=000000&logo=git&logoColor=white" />
+</p>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Contribution</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kestra-io/docs">
+        <img src="https://github.com/kestra-io.png" width="20" /> <b>kestra-io/docs</b>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&color=0099ff&labelColor=000000&label=Kestra%20⭐" />
+      <br/>
+      <sub>Event-driven orchestration platform</sub>
+    </td>
+    <td>
+      <b>Fixed blueprint tag casing</b><br/>
+      <sub>Fetched tags from the API in the Blueprints carousel so they display with the correct casing instead of lowercase.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/kestra-io/docs/pull/3552">
+        <img src="https://img.shields.io/badge/Merged-%233552-8957e5?style=flat-square&labelColor=000000&logo=githubactions&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/tambo-ai/tambo">
+        <img src="https://github.com/tambo-ai.png" width="20" /> <b>tambo-ai/tambo</b>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/tambo-ai/tambo?style=flat-square&color=0099ff&labelColor=000000&label=Tambo%20⭐" />
+      <br/>
+      <sub>Generative UI SDK for React</sub>
+    </td>
+    <td>
+      <b>Validated Groq Llama-3.1-8B model</b><br/>
+      <sub>Tested the model on a locally run Tambo Cloud, documented its shortcomings (JSON escaping, invalid syntax, streaming errors), and updated its status in the model registry.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/LLM%20Testing-000000?style=flat-square&logo=meta&logoColor=0099ff" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/tambo-ai/tambo/pull/1892">
+        <img src="https://img.shields.io/badge/Merged-%231892-8957e5?style=flat-square&labelColor=000000&logo=githubactions&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
