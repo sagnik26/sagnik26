@@ -151,7 +151,7 @@ onboarding from a full day to under **5 minutes** by automating cloud provisioni
         <img src="https://github.com/kestra-io.png" width="20" /> <b>kestra-io/docs</b>
       </a>
       <br/>
-      <img src="https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&color=0099ff&labelColor=000000&label=Kestra%20⭐" />
+      <img src="https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&color=0099ff&labelColor=000000&label=Stars&logo=github" />
       <br/>
       <sub>Event-driven orchestration platform</sub>
     </td>
@@ -173,7 +173,7 @@ onboarding from a full day to under **5 minutes** by automating cloud provisioni
         <img src="https://github.com/tambo-ai.png" width="20" /> <b>tambo-ai/tambo</b>
       </a>
       <br/>
-      <img src="https://img.shields.io/github/stars/tambo-ai/tambo?style=flat-square&color=0099ff&labelColor=000000&label=Tambo%20⭐" />
+      <img src="https://img.shields.io/github/stars/tambo-ai/tambo?style=flat-square&color=0099ff&labelColor=000000&label=Stars&logo=github" />
       <br/>
       <sub>Generative UI SDK for React</sub>
     </td>
