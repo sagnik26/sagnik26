@@ -53,7 +53,7 @@
 
 ## **Software Engineer — Sony India Software Centre** *(Aug 2025 – Present)*
 
-• Worked end to end on rebuilding the Rewards and Collectibles feature for the **Playstation** app in **React Native**. Worked on building the backend API service in **Node.js** and configured the **graphql** federation layer by connecting the microservice and creating separate rewards subgraph isolating from shared core subgraph for scalability which improved performance by **~50%** while preventing cross service impact
+• Worked end to end on building the Rewards and Collectibles feature for the **Playstation** app in **React Native**. Worked on building the backend API service in **Node.js** and configured the **graphql** federation layer by connecting the microservice and creating separate rewards subgraph isolating from shared core subgraph for scalability which improved performance by **~50%** while preventing cross service impact
 
 • Worked on Playstation account management internal tool using **Next.js (SSR), Redux, TypeScript, and Node.js** deployed on **AWS EKS** and **Lambda**, optimized page load times by leveraging Server Components to handle heavy **AWS** resource orchestration and data-
 fetching, cutting account setup support tickets by **25%**
@@ -61,9 +61,6 @@ fetching, cutting account setup support tickets by **25%**
 • Optimized **real-time streaming** data within the PlayStation console UI by engineering a **TypeScript message-batching queue** and
 custom **React throttling hook**, stabilized frame rates at **60 FPS** and reduced component re-renders during high-frequency WebSocket
 event traffic bursts
-
-• Shipped **React Native** features across the PlayStation Mobile App and console while tracking **TTFP, TTS, TTI, and FPS** to maintain
-smooth, responsive performance
 
 • Drove PlayStation App **accessibility** work, implementing **WCAG** compliant features to ensure compliance with the **EU Accessibility
 Act (EAA)**, impacting millions of users across the PlayStation ecosystem
@@ -82,8 +79,6 @@ Node.js and PostgreSQL, consumed by a React and TypeScript frontend, and led Rea
 lazy loading of modules for improving **TTFP (time to first paint)**
 
 • Migrated real-time messaging to an event-driven WebSocket architecture, cutting latency **10%** for **20k+** concurrent users
-
-• Implemented field-level encryption and **RBAC** least-privilege access with audit logging, supporting third-party compliance audits
 
 • Maintained **85%+** test coverage **(Jest, React Testing Library, Playwright)** in **GitHub Actions CI/CD** pipelines for zero-downtime
 releases
